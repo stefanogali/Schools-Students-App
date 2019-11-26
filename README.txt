@@ -8,4 +8,4 @@ PLEASE CHANGE DETAILS ON INCLUDES/CONNECTION.PHP WITH YOUR DB DETAILS
 
 ENJOY :)
 
-DEMO VERSION AT http://schooltoucan.x10host.com/
+DEMO VERSION AT http://schooltest.x10host.com
